@@ -36,7 +36,7 @@ luego, dar clic sobre la opcion portable para windows
 3. guardar la imagen iso en la misma carpeta donde se guardo previamente rufus 
 ![imagen de referenicia de guardado de la iso en la misma carpeta que rufus](imagenes\Imagen7.png)
 
-## Limpiar USB previo a hacer el booteo 
+## Formatear USB previo a hacer el booteo 
 **nota**: previo a hacer el booteo es preferible hacer una copia de los archivos que pueda contener el dispositivo ya que el objetivo de este proceso es que solo viva dentro de la USB la imagen ISO, ninguna otra mas.
 
 1. verificar efectivamente que el dispositivo halla leido la USB (en mi caso, mi USB es el dispositivo nombrado como Linux Mint 22.3)
@@ -44,7 +44,7 @@ luego, dar clic sobre la opcion portable para windows
 luego dirigirse hacia el icono de windows, hacer clic derecho sobre el mismo y presionar la opción "adminnistracion de discos"
 ![imagen de referencia, que opcion presionar para limpiar la usb](imagenes\Imagen9.png)
 
-2. Aparecera una ventana completamente nuevo, donde debe de aparecer nuevamente nuestra USB, de no aparecer puede que el dispositivo sufra de algun daño que no permita su corecta lectura. 
+2. Aparecera una ventana completamente nuevo, donde debe de aparecer nuevamente nuestra USB, de no aparecer puede que el dispositivo sufra de algun daño que no permita su correcta lectura. 
 ![imagen de la ventana de administracion de discos](imagenes\Imagen10.png)
 haciendo clic derecho sobre el disco que tenga las especificaciones de nuestra usb, se desplegara un menu, debemos de seleccionar la opcion "Formatear".
 ![imagen del menu del USB](imagenes\Imagen11.png)
